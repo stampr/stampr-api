@@ -419,3 +419,5 @@ Returns: Object with single key "pong" and a value of the current Date/Time of t
 Returns: `string`
 
 Returns the exact string `"ok"` (with quotes) when everything is ok. =]
+
+This is the only resource that doesn't require authentication.
